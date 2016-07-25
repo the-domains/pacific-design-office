@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Pacific Design Office focuses on quality, sustainable contemporary design. '
-datePublished: '2016-07-25T23:19:21.636Z'
-dateModified: '2016-07-25T23:15:28.086Z'
+datePublished: '2016-07-25T23:22:30.624Z'
+dateModified: '2016-07-25T23:19:27.956Z'
 title: ''
 author: []
 via: {}
