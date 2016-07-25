@@ -1,0 +1,28 @@
+name: Pacific Design Office
+favicon: null
+layout_spectrum: 0.6888780321460217
+typography_spectrum: 0.6034717902075499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7508884170092642
+  lightness: 0.622743880841881
+  saturation: 0.23942204774357378
+  rhythmicContrast: 0.7408491796813905
+purpose: []
