@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Pacific Design Office focuses on quality, sustainable contemporary design. '
-datePublished: '2016-07-25T22:21:43.335Z'
-dateModified: '2016-07-25T22:21:34.433Z'
+datePublished: '2016-07-25T22:31:46.680Z'
+dateModified: '2016-07-25T22:31:13.816Z'
 title: ''
 author: []
 via: {}
@@ -19,8 +19,8 @@ url: pacific-design-office-focuses-on-quality-sustainable-contem/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebbeb0c7-96e3-4269-a3b2-201396943822.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe4774fb-8420-4410-8bbd-7f6483d999a7.jpg)
 
 Pacific Design Office focuses on quality, sustainable contemporary design. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b3c7c5f-968c-45df-8ac7-658beb3f04f5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c818c284-f172-4198-ae71-11e9c8a7721b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/142c2caa-4d9d-46ee-b768-efb463f08230.png)
