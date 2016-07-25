@@ -1,7 +1,7 @@
 name: Pacific Design Office
 favicon: null
-layout_spectrum: 0.25538
-typography_spectrum: 0.44584
+layout_spectrum: 0.48198
+typography_spectrum: 0.4286
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#e9e5d5'
     - '#e6ebe8'
     - '#f3f3f3'
-  brandStrength: 0.7508884170092642
+  brandStrength: 0.875
   lightness: 0.6875
   saturation: 0.75
   rhythmicContrast: 0.5
