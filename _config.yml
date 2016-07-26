@@ -1,28 +1,40 @@
-name: Pacific Design Office
-favicon: null
-layout_spectrum: 0.24553
-typography_spectrum: 0.41875
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ccd6cf'
-    - '#ffffff'
-    - '#e9e5d5'
-    - '#e6ebe8'
-    - '#f3f3f3'
-  brandStrength: 0
-  lightness: 0.6875
-  saturation: 0
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0
+  brandStrength: 0.292444
+  lightness: 0.6875
+  brandColors:
+    - '#000000'
+    - '#D5D5D5'
+    - '#9B9B9B'
+    - '#505050'
+    - '#707070'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.380597
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2938433
+favicon: null
+name: Pacific Design Office
